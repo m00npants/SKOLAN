@@ -7,7 +7,6 @@ total < mark1 + mark2 + mark3average < total / 3
 Print < total, average
 End
 ```
-### ✔ Flowchart
 
 ```mermaid
 flowchart TD
