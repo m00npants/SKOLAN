@@ -9,7 +9,7 @@ Print < total, average
 End
 
 ```
-
+### ✔ Flowchart
 ```mermaid
 flowchart TD
     A([Start]) --> B[/Input mark1, mark2, mark3/]
