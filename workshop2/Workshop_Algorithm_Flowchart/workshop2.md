@@ -19,24 +19,3 @@ flowchart TD
     ```
 
 
-## 3. Display Multiplication Table
-```text
-Start
-Input number
-For i From 1 To 10 Do
-Print number x i
-EndFor
-End
-```
-
-```mermaid
-flowchart TD
-    A([Start]) --> B[/Input number/]
-    B --> C[Set i = 1]
-    C --> D{Is i ≤ 10?}
-    D -->|Yes| E[Print number × i]
-    E --> F[i = i + 1]
-    F --> D
-    D -->|No| G([End])
-
-    ```
