@@ -17,7 +17,7 @@ flowchart TD
     D --> E[/Print total, average/]
     E --> F([End])
     
-    ```
+    
 
 
 
