@@ -18,5 +18,7 @@ flowchart TD
     E --> F([End])
     
     ```
+---
 
+## 3. Display Multiplication Table
 
