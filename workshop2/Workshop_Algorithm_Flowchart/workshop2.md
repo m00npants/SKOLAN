@@ -19,8 +19,5 @@ flowchart TD
     
     
 
-### 3. Display Multiplication Table
-```text
-Start
-```
+
 
