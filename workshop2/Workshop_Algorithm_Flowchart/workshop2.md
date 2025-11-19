@@ -16,6 +16,7 @@ flowchart TD
     C --> D[Calculate average = total / 3]
     D --> E[/Print total, average/]
     E --> F([End])
+    
     ```
 
 
