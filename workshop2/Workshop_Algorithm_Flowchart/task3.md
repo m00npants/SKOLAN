@@ -1,3 +1,6 @@
+## 3. Display Multiplication Table
+### ✔ Pseudocode
+
 ```text
 
 START
@@ -8,7 +11,7 @@ START
 END
 
 ```
-
+### ✔ Flowchart
 ```mermaid
 flowchart TD
     A([Start]) --> B[/Input number/]

@@ -1,5 +1,5 @@
 ## 2. Calculate Total and Average Marks
-
+### ✔ Pseudocode
 ```text
 
 Start

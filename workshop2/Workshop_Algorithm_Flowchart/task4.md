@@ -1,3 +1,6 @@
+## 4. Positive, Negative, or Zero Check
+### ✔ Pseudocode
+
 ```text
 
 START
@@ -12,6 +15,7 @@ START
 END
 
 ```
+### ✔ Flowchart
 
 ```mermaid
 flowchart TD
