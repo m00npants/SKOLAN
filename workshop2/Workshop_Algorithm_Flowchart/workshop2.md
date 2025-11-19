@@ -30,7 +30,7 @@ EndFor
 End
 ```
 
-```mermaid
+mermaid
 flowchart TD
     A([Start]) --> B[/Input number/]
     B --> C[Set i = 1]
