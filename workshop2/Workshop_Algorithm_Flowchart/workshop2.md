@@ -1,8 +1,10 @@
+```text
 Start
 Input mark1, mark2, mark3
 total < mark1 + mark2 + mark3average < total / 3
 Print < total, average
 End
+´´´
 
 
 ```mermaid
